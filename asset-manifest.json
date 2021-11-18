@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/joaopaulobarbosa/projeto_ecommerce.git/static/css/main.8908a7f2.chunk.css",
+    "main.js": "/joaopaulobarbosa/projeto_ecommerce.git/static/js/main.310f5806.chunk.js",
+    "main.js.map": "/joaopaulobarbosa/projeto_ecommerce.git/static/js/main.310f5806.chunk.js.map",
+    "runtime-main.js": "/joaopaulobarbosa/projeto_ecommerce.git/static/js/runtime-main.9851c87a.js",
+    "runtime-main.js.map": "/joaopaulobarbosa/projeto_ecommerce.git/static/js/runtime-main.9851c87a.js.map",
+    "static/js/2.9433ef27.chunk.js": "/joaopaulobarbosa/projeto_ecommerce.git/static/js/2.9433ef27.chunk.js",
+    "static/js/2.9433ef27.chunk.js.map": "/joaopaulobarbosa/projeto_ecommerce.git/static/js/2.9433ef27.chunk.js.map",
+    "static/js/3.ac47af4c.chunk.js": "/joaopaulobarbosa/projeto_ecommerce.git/static/js/3.ac47af4c.chunk.js",
+    "static/js/3.ac47af4c.chunk.js.map": "/joaopaulobarbosa/projeto_ecommerce.git/static/js/3.ac47af4c.chunk.js.map",
+    "index.html": "/joaopaulobarbosa/projeto_ecommerce.git/index.html",
+    "static/css/main.8908a7f2.chunk.css.map": "/joaopaulobarbosa/projeto_ecommerce.git/static/css/main.8908a7f2.chunk.css.map",
+    "static/js/2.9433ef27.chunk.js.LICENSE.txt": "/joaopaulobarbosa/projeto_ecommerce.git/static/js/2.9433ef27.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9851c87a.js",
+    "static/js/2.9433ef27.chunk.js",
+    "static/css/main.8908a7f2.chunk.css",
+    "static/js/main.310f5806.chunk.js"
+  ]
+}
